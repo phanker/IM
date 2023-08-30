@@ -1,5 +1,5 @@
 # IM
-[![Build Status](https://travis-ci.org/yuanrw/IM.svg?branch=master)](https://travis-ci.org/yuanrw/IM)
+[![Build Status](https://api.travis-ci.com/phanker/NFT-MARKETPLACE.svg?branch=main)](https://travis-ci.org/phanker/NFT-MARKETPLACE)
 [![codecov](https://codecov.io/gh/yuanrw/IM/branch/master/graph/badge.svg)](https://codecov.io/gh/yuanrw/IM)
 [![codebeat badge](https://codebeat.co/badges/be93165e-76f7-473b-ae45-7c8b5e7b7a87)](https://codebeat.co/projects/github-com-yuanrw-im-master)
 [![release](https://img.shields.io/github/v/release/yuanrw/IM?include_prereleases)](https://github.com/yuanrw/IM/releases)
